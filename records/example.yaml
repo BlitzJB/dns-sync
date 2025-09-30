@@ -1,0 +1,9 @@
+# Example DNS record configuration
+# Filename can be anything descriptive (e.g., api-subdomain.yaml, www-record.yaml)
+
+name: example.com
+type: A
+content: 192.168.1.1
+ttl: 3600
+proxied: false
+description: Example A record for the root domain
