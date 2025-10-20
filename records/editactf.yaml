@@ -1,0 +1,8 @@
+# EditaCTF DNS record configuration
+
+name: editactf
+type: CNAME
+content: editactf.snuc.cc
+ttl: 3600
+proxied: false
+description: CNAME record for the editactf subdomain
