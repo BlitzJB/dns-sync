@@ -2,7 +2,7 @@
 
 name: editactf
 type: CNAME
-content: editactf.snuc.cc
+content: 8b79dcff8060d775.vercel-dns-017.com.
 ttl: 3600
 proxied: false
 description: CNAME record for the editactf subdomain
